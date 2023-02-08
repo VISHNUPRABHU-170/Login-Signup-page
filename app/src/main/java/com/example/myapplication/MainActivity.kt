@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         up_button = findViewById(R.id.up)
 
         in_button.setOnClickListener {
-
+            //it is added
             val intent = Intent(this, signin::class.java)
 
             startActivity(intent)
