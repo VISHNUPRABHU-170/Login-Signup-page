@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Practice App</string>
+    <string name="greet">Welcome to our Application</string>
+    <string name="ask">Already have an account?</string>
+    <string name="then">if Not</string>
+    <string name="yes">Sign in</string>
+    <string name="no">Sign up</string>
+    <string name="thanks">Thanks For Visiting.....</string>
+    <string name="h1">Sign in</string>
+    <string name="show">Show</string>
+    <string name="h2">Sign Up</string>
+    <string name="mailid">Enter Your MailID</string>
+    <string name="crpass">Create New Password</string>
+    <string name="confpass">Confirm Password</string>
+    <string name="entpass">Enter Your Password</string>
+    <string name="login">Log in</string>
+    <string name="crtacc">Create Account</string>
+</resources>
